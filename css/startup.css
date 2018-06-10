@@ -21,3 +21,7 @@
 .article__author {
   width: 100%;
 }
+
+.card .content .description li:nth-child(1) {
+    margin-bottom: 1em;
+}
