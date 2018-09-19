@@ -18,3 +18,7 @@ h3 em {
   grid-template-columns: 1fr 1fr;
   grid-gap: 2em;
 }
+
+.grid .card + .card {
+    margin-left: 0;
+}

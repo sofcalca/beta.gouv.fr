@@ -13,6 +13,10 @@
   grid-gap: 2em;
 }
 
+.grid .card + .card {
+    margin-left: 0;
+}
+
 .card .card__content {
   padding: 1em;
 }

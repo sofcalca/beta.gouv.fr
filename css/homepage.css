@@ -21,7 +21,7 @@ body {
   display: none;
 }
 
-.hero__container {
+.hero {
     background-image: url('/img/pages/index.jpg');
     background-position: center;
     background-repeat: no-repeat;

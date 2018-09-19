@@ -98,3 +98,7 @@ a.blog-title-link {
         height: 100px;
     }
 }
+
+.article__container {
+    max-width: 35em;
+}
