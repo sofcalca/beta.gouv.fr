@@ -21,8 +21,26 @@ body {
   display: none;
 }
 
+.hero__container {
+    background-image: url('/img/pages/index.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 280px;
+}
+
 .hero__container h1 {
   color: #fff;
+}
+
+.mosaic .photo.agents {
+    background-image: url('/img/pages/agent_public.jpg');
+    background-size: cover;
+}
+
+.mosaic .photo.decideurs {
+    background-image: url('/img/pages/decideur_public.jpg');
+    background-size: cover;
 }
 
 .row.centered {
